@@ -13,3 +13,4 @@ for task in tasks:
     print("Priority:", task["priority"])
     print("Status:", status)
     print("----------------------")
+    {"title": "Prepare for Data Structures exam", "priority": "High", "completed": False},
