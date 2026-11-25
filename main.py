@@ -2,6 +2,7 @@ tasks = [
     {"title": "Complete Python homework", "priority": "High", "completed": False},
     {"title": "Review Git commands", "priority": "Medium", "completed": True},
     {"title": "Read Chapter 2", "priority": "Low", "completed": False},
+    {"title": "Prepare for Data Structures exam", "priority": "High", "completed": False},
 ]
 
 print("Task Management System")
@@ -13,4 +14,3 @@ for task in tasks:
     print("Priority:", task["priority"])
     print("Status:", status)
     print("----------------------")
-    {"title": "Prepare for Data Structures exam", "priority": "High", "completed": False},
